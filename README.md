@@ -8,7 +8,7 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=6,11,20&text=Donia%20Souissi&fontColor=ffffff&fontSize=68&fontAlign=50&fontAlignY=55&desc=Software%20Engineering%20Student&descColor=f0abfc&descSize=20&descAlign=50&descAlignY=72&stroke=a855f7&strokeWidth=1.5&animation=fadeIn" width="100%" alt="Donia Souissi"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=6,11,20&text=Donia%20Souissi&fontColor=ffffff&fontSize=68&fontAlign=50&fontAlignY=55&descColor=f0abfc&descSize=20&descAlign=50&descAlignY=72&stroke=a855f7&strokeWidth=1.5&animation=fadeIn" width="100%" alt="Donia Souissi"/>
 
 </div>
 

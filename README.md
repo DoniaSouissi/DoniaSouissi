@@ -8,7 +8,7 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=6,11,20&text=Donia%20Souissi&fontColor=ffffff&fontSize=68&fontAlign=50&fontAlignY=55&descColor=f0abfc&descSize=20&descAlign=50&descAlignY=72&stroke=a855f7&strokeWidth=1.5&animation=fadeIn" width="100%" alt="Donia Souissi"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:780567,50:A71BC2,100:7A0EB0&amp&text=Donia%20Souissi&fontColor=ffffff&fontSize=68&fontAlign=50&fontAlignY=55&descColor=f0abfc&descSize=20&descAlign=50&descAlignY=72&stroke=a855f7&strokeWidth=1.5&animation=fadeIn" width="100%" alt="Donia Souissi"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=E879F9&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Big+Data+%26+Data+Science+Student+%F0%9F%93%8A%3BAI+Enthusiast+%F0%9F%A4%96%3BML+%7C+DL+%7C+Computer+Vision+%7C+NLP+%F0%9F%A7%A0%3B8%2B+NVIDIA+Certified+%F0%9F%8F%85" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=F979C6&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Big+Data+%26+Data+Science+Student+%F0%9F%93%8A%3BAI+Enthusiast+%F0%9F%A4%96%3BML+%7C+DL+%7C+Computer+Vision+%7C+NLP+%F0%9F%A7%A0%3B8%2B+NVIDIA+Certified+%F0%9F%8F%85" 
     alt="Typing SVG"
   />
 </a>
@@ -31,9 +31,7 @@
      ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="80%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:780567,50:A71BC2,100:7A0EB0" width="80%"/>
 </div>
 
 <br/>
@@ -64,7 +62,7 @@ seeking    : AI Engineering & Data Science Internships
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:780567,50:A71BC2,100:7A0EB0" width="80%"/>
 
 <br/><br/>
 
@@ -93,12 +91,9 @@ seeking    : AI Engineering & Data Science Internships
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20&fontColor=ffffff&section=footer&text=Let%27s%20build%20something%20extraordinary.&fontSize=18&fontAlign=50&fontAlignY=65&descColor=f0abfc" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:780567,50:A71BC2,100:7A0EB0&fontColor=ffffff&section=footer&text=Let%27s%20build%20something%20extraordinary!&fontSize=18&fontAlign=50&fontAlignY=65&descColor=f0abfc" width="100%"/>
 </div>
 
 <!-- ============================================================
      END OF README
-
-        Text           : #c9d1d9
      ============================================================ -->

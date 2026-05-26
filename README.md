@@ -77,13 +77,13 @@ seeking    : AI Engineering & Data Science Internships
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DoniaSouissi)
 
-<br/><br/>
+<br/>
 
 
 
 </div>
 
-<br/>
+
 
 <!-- ╔══════════════════════════════════════════════════════════╗
      ║                  FOOTER BANNER                           ║
